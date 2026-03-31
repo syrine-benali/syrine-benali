@@ -3,11 +3,6 @@
 Software Engineering Student  
 *Architecture, Data Science, and Management*
 
-<p align="center">
-    Software Engineering Student<br>
-    <em>Architecture, Data Science and Management</em>
-</p>
-
 ---
 
 ## About Me
